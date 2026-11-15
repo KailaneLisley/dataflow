@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Dados brutos — manter apenas localmente
+/data/raw/*
+!/data/raw/.gitkeep
